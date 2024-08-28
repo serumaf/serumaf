@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Selma Fegas</h1>
 <h3 align="center">A passionate web developer</h3>
 
-![0k6meqvps4h91](https://github.com/user-attachments/assets/adfa467a-9270-4344-a0fc-93c53714c5a4)
+  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [![](https://visitcount.itsvg.in/api?id=serumaf&icon=5&color=6)](https://visitcount.itsvg.in)
+ 
+ &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![0k6meqvps4h91](https://github.com/user-attachments/assets/adfa467a-9270-4344-a0fc-93c53714c5a4)
 
-[![](https://visitcount.itsvg.in/api?id=serumaf&icon=5&color=6)](https://visitcount.itsvg.in)
 
-- 👩🏻‍🎓 Studied Computer Science at the [ University of Jijel, Algeria](https://univ-jijel.dz/index.php/ar/)
 
-- 🌱 I’m currently learning **Frameworks**
+  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; 👩🏻‍🎓 Studied Computer Science at the [ University of Jijel, Algeria](https://univ-jijel.dz/index.php/ar/)
+
+ &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  🌱 I’m currently learning **Frameworks**
 
 
 
@@ -25,11 +27,11 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=serumaf&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+ ![](https://github-readme-stats.vercel.app/api?username=serumaf&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=serumaf&theme=radical&hide_border=false)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=serumaf&theme=radical&hide_border=false)<br/>
 <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=serumaf&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=serumaf&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=serumaf&limit=5&theme=radical&combine_all_yearly_contributions=true)
