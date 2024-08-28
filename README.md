@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selma Fegas</h1>
 <h3 align="center">A passionate web developer</h3>
 
-  &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [![](https://visitcount.itsvg.in/api?id=serumaf&icon=5&color=6)](https://visitcount.itsvg.in)
+   &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;  [![](https://visitcount.itsvg.in/api?id=serumaf&icon=5&color=6)](https://visitcount.itsvg.in)
  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![0k6meqvps4h91](https://github.com/user-attachments/assets/adfa467a-9270-4344-a0fc-93c53714c5a4)
 
@@ -14,7 +14,7 @@
 
 
 
-## 🌐Contact me :
+## Contact me :
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/seruma.f) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/selma-fegas-55675b24b) 
 
@@ -26,14 +26,14 @@
 <p><a href="https://www.buymeacoffee.com/ellsa2018nm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Selma Fegas" /></a></p><br><br>
 <br>
 
-# 📊 GitHub Stats:
+# GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api?username=serumaf&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <br>
  ![](https://github-readme-streak-stats.herokuapp.com/?user=serumaf&theme=radical&hide_border=false)<br/>
 <br>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=serumaf&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+###  Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=serumaf&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
